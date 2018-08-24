@@ -7,7 +7,7 @@ A list of development resources for personal use
 
 ### Style Guides:
 * [Angular Style Guide](https://angular.io/guide/styleguide)
-* 
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ### Angular:
-* 
+* [rxjs Error Handling](https://blog.angular-university.io/rxjs-error-handling/)
